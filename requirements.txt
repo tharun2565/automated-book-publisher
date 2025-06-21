@@ -1,0 +1,12 @@
+
+> 🔖 Save as `README.md`
+
+---
+
+## ✅ `requirements.txt`
+
+```txt
+playwright
+requests
+chromadb
+
